@@ -1,7 +1,2 @@
 User-agent: *
 Allow: /
-
-# Block sensitive paths
-Disallow: /assets/img/private/
-
-Sitemap: https://duel-casino.eu.com/sitemap.xml
